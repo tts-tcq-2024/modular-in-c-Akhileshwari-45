@@ -1,5 +1,5 @@
-#ifndef COLOR_PAIR_H
-#define COLOR_PAIR_H
+#ifndef COLOURPAIR_H
+#define COLOURPAIR_H
  
 typedef enum MajorColor 
 {WHITE,
@@ -24,4 +24,4 @@ void color_pair_to_string(const ColorPair* color_pair, char* output_buffer);
 ColorPair get_color_from_pair_number(int pair_number);
 int get_pair_number_from_color(const ColorPair* color_pair);
  
-#endif // COLOR_PAIR_H
+#endif // COLOURPAIR_H
