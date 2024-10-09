@@ -1,6 +1,6 @@
 #include <stdio.h>
-#include "colorpair.h"
-#include "colormapping.h"
+#include "colourpair.h"
+
  
  
 const char* major_color_names[] = {
