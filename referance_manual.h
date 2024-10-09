@@ -1,5 +1,5 @@
-#ifndef REFERENCE_MANUAL_H
-#define REFERENCE_MANUAL_H
+#ifndef REFERANCE_MANUAL_H
+#define REFERANCE_MANUAL_H
  
 typedef struct
 {
